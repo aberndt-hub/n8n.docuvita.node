@@ -1,0 +1,20 @@
+{
+	"node": "n8n-nodes-base.docuvita",
+	"nodeVersion": "26.02.13",
+	"codexVersion": "26.02.13",
+	"categories": [
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.n8n.io/credentials/docuvita"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.n8n.io/nodes/n8n-nodes-base.docuvita/"
+			}
+		]
+	}
+}
