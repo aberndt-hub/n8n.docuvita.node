@@ -1,19 +1,19 @@
 {
 	"node": "n8n-nodes-base.docuvita",
-	"nodeVersion": "26.02.13",
-	"codexVersion": "26.02.13",
+	"nodeVersion": "26.10.1",
+	"codexVersion": "26.10.1",
 	"categories": [
 		"Data & Storage"
 	],
 	"resources": {
 		"credentialDocumentation": [
 			{
-				"url": "https://docs.n8n.io/credentials/docuvita"
+				"url": "https://github.com/aberndt-hub/n8n.docuvita.node#credentials"
 			}
 		],
 		"primaryDocumentation": [
 			{
-				"url": "https://docs.n8n.io/nodes/n8n-nodes-base.docuvita/"
+				"url": "https://github.com/aberndt-hub/n8n.docuvita.node#readme"
 			}
 		]
 	}

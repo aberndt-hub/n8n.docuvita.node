@@ -2,7 +2,7 @@
 
 This n8n community node lets you interact with the **Docuvita** document management system API from your n8n workflows.
 
-[Docuvita](http://www.docuvita.com) · [n8n Community Nodes](https://docs.n8n.io/integrations/community-nodes/)
+[Docuvita](http://www.docuvita.com) · [n8n Community Nodes](https://docs.n8n.io/integrations/community-nodes/) · [Changelog](CHANGELOG.md)
 
 ---
 
@@ -127,7 +127,7 @@ At least one property must be supplied, otherwise the node throws an error.
 
 #### Set Delete Flag
 
-Marks one or more objects for deletion in a single API call. All objects share the same `DeleteReason`, `IncludeSubItems` and `DeleteReasonText`.
+Marks one or more objects for deletion in a single API call. All objects share the same `DeleteReason`, `IncludeSubItems` and `DeleteReasonText`. Every incoming item is processed and returns one result item.
 
 | Parameter | Required | Description |
 |---|---|---|

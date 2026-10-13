@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-docuvita",
-	"version": "26.02.13",
+	"version": "26.10.1",
 	"description": "Stellt Funktionen für die Docuvita API bereit",
 	"license": "MIT",
 	"homepage": "https://github.com/aberndt-hub/n8n.docuvita.node",
